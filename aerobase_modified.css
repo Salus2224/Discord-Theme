@@ -2143,12 +2143,7 @@ div[data-ref-id="guildsnav"]>.listItem-2P_4kh, div[data-ref-id="guildsnav"]>.wra
         width: auto !important;
 }
 
-.expandedFolderBackground-2sPsd-, #app-mount [data-ref-id=guildsnav] .listItem-2P_4kh, .guilds-1SWlCJ .scroller-2FKFPG .listItem-2P_4kh .wrapper-25eVIn, .guilds-1SWlCJ .scroller-2FKFPG .listItem-2P_4kh .svg-1X37T1 {
-        width: var(--ServerSize) !important;
-        height: var(--ServerSize) !important;
-        margin: 0;
-        border-radius: .25em;
-}
+
 
 .nameTag-2IFDfL {
         display: inline-flex;
