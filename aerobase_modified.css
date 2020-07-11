@@ -82,9 +82,6 @@
         --blurple: var(--Primary);
 }
 
-.wrapper-2qzCYF {
-         background: transparent;
-}
 
 .container-1r6BKw>.children-19S4PO>.iconWrapper-2OrFZ1>svg, .base-1x0h_U {
         color: white;
@@ -2103,7 +2100,8 @@ polyline[stroke*="#7289da"] {
 .wrapper-2qzCYF {
         background: var(--darkgrey5)!important;
         border-radius: .25em;
-        margin-right: 15px
+        margin-right: 15px;
+        opacity: 0.8
 }
 
 .iconBadge-2wi9r4.participating-NBGDkr {
