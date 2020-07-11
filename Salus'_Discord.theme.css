@@ -11,7 +11,7 @@
 @import url("https://salus2224.github.io/Discord-Theme/HorizontalServerList.css");
 :root {
 --title: "Discord";
---background: url("https://cdn.discordapp.com/attachments/731323540896219136/731638897276223568/DiscordBackground_22monitor.png");
+--background: url("https://salus2224.github.io/Discord-Theme/Background.png");
 --font: "Quicksand";
 --time: 10s;
 --Online: rgb(0, 255, 136);
@@ -23,7 +23,7 @@
 --ChatBox: transparent;
 --Sidebar: transparent;
 --SendMessage: transparent;
---logo: url("https://cdn.discordapp.com/attachments/731323540896219136/731323669342847016/Logo_Updated.png");
+--logo: url("https://salus2224.github.io/Discord-Theme/Logo.png");
 --HoverMessage: transparent;
 --JoinUs: "Hey! Wanna have some fun.. Join US !";
 --AddNewServer: "➕ Add a new server";
@@ -41,8 +41,8 @@
 --WelcomeMessage: "";
 --Watermark: "";
 --EditStatus: "Make a Custom Status";
---Folders: url("https://cdn.discordapp.com/attachments/731323540896219136/731604923505967144/icon.PNG");
---FoldersOpen: url("https://cdn.discordapp.com/attachments/731323540896219136/731604923505967144/icon.PNG");
+--Folders: url("https://salus2224.github.io/Discord-Theme/icon.png");
+--FoldersOpen: url("https://salus2224.github.io/Discord-Theme/icon.png");
 --Micro: "🎙️";
 --Headset: "🎧";
 --TitleBG: transparent;
