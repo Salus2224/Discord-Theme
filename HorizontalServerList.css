@@ -190,16 +190,6 @@ div[data-ref-id="guildsnav"]>.wrapper-21YSNc {
     height: var(--ServerSize);
 }
 
-#bd-pub-button {
-    border-radius: .25em;
-    background: url(https://cdn.discordapp.com/attachments/476154188494143498/706213608387772496/public.png);
-    color: #ffffff;
-    font-size: 12px;
-    background-size: 90% 90%;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
 .unreadMentionsIndicatorBottom-BXS58x {
     padding: 0;
     height: 25px;
